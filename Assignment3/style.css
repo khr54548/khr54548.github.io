@@ -1,0 +1,39 @@
+body{
+	background-color: green;
+	color:yellow;
+	font-size:45px;
+	font-weight:bold;
+  align-items: center;
+}
+
+#para{
+	font-size: 20px;
+	color:lime;
+
+}
+
+#menu{
+  font-size: 20px;
+	color:lightgreen;
+	}
+
+#word1{
+	font-size: 20px;
+	color:lightgreen;
+}
+
+
+#word2{
+	font-size: 20px;
+	color:lightgreen;
+}
+
+#result{
+  background-color: lightgreen;
+  font-size: 20px;
+	font-weight: bold;
+	color:black;
+	height:30px;
+	width: 200px;
+  text-align: center;
+	}
