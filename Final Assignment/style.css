@@ -1,0 +1,66 @@
+body{
+	background-color: #E4F0C8;
+}
+
+
+.maintitle{
+  background-color:#8CB42F;
+	height: 70px;
+	weight: 80%;
+	text-align: center;
+	font-weight: bold;
+	font-size: 38px;
+	margin:0,0,0,0;
+	padding-top: 2%;
+	}
+
+
+
+#navigation{
+	background-color: #B8CF83;
+  color:#2B4200;
+	font-size: 22px;
+	font-weight:bold;
+}
+
+
+.innerarticle{
+	background-color: #F4F7ED;
+	text-align: left;
+	font-weight: 400;
+	color: black;
+}
+
+td{
+	text-align: center;
+	color:#2B4200;
+	font-weight: 700;
+}
+
+.article{
+	font-weight: 100;
+}
+
+#content1{
+color: #2B4200;;
+font-weight: 500;
+text-align: center;
+}
+
+#footer{
+	color:gray;
+	font-weight: 100;
+	font-size: 12px;
+	text-align: center;
+}
+
+
+#quote{
+	color:gray;
+	font-weight: 100;
+	font-size: 12px;
+}
+
+.egg{
+	background-color: #F4F7ED;
+}
